@@ -119,6 +119,7 @@ int main()
 	return 0;
 }
 
+
 void write_student()
 {
 	student st{};
